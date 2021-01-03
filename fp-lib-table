@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name PJ-002A)(type KiCad)(uri ${KIPRJMOD}/PJ-002A.pretty)(options "")(descr ""))
+  (lib (name PJ-002B)(type KiCad)(uri ${KIPRJMOD}/PJ-002B.pretty)(options "")(descr ""))
+  (lib (name JetsonXavierNX_UPS)(type KiCad)(uri ${KIPRJMOD}/JetsonXavierNX_UPS.pretty)(options "")(descr ""))
+  (lib (name Connectors_JST)(type KiCad)(uri ${KIPRJMOD}/Connectors_JST.pretty)(options "")(descr ""))
+  (lib (name BQ24205RHLR)(type KiCad)(uri ${KIPRJMOD}/BQ24105RHLR/BQ24205RHLR.pretty)(options "")(descr ""))
+)
